@@ -13,5 +13,26 @@ namespace AgileRapWebsite.Controllers
         {
             return View();
         }
+        public ActionResult Portfolio()
+        {
+            return View();
+        }
+        public ActionResult JoinUsNisit()
+        {
+            return View();
+        }
+        public ActionResult JoinUsEmployee()
+        {
+            return View();
+        }
+        public ActionResult OurService()
+        {
+            return View();
+        }
+        public ActionResult ContactUs()
+        {
+            return View();
+        }
+
     }
 }
