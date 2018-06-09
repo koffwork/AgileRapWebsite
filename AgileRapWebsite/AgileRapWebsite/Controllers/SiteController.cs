@@ -11,7 +11,9 @@ namespace AgileRapWebsite.Controllers
         // GET: Site
         public ActionResult Index()
         {
+            
             return View();
         }
+
     }
 }
